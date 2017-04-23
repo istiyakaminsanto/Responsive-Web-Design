@@ -1,0 +1,49 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#navbar_area{
+	background: #222222;
+
+}
+
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: none;
+    background: #222222;
+}
+
+
+.navbar-default {
+    background-color: #222222;
+    border-color: none;
+}
+
+.navbar-default .navbar-brand {
+    color: #C0C0C0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #C0C0C0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: #000;
+}
